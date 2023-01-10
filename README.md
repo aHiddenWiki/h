@@ -42,9 +42,6 @@ https://brave.com/download/
 
 Using Tor is legal in most countries. It’s illegal to perform certain activities, depending on your residency these may include: buying or selling drugs, weapons, counterfeit money, abusive materials etc.
 
-# What is Tor?
-
-Tor (The Onion Router) is an open-source software that bounces Internet traffic through a worldwide network consisting of almost million relays in order to hide user’s location and protect him against surveillance or traffic analysis. Tor makes more difficult to trace Internet activity: websites visits, online posts, instant messages and other communication forms.
 
 # How Tor works?
 
@@ -55,6 +52,11 @@ Your traffic passes through 3 intermediate nodes before reaching destination. Ea
 - Guard node — knows your IP address but doesn’t know where you connect to and what you send to destination
 - Middle node — immediate layer between guard node and exit node
 - Exit node — knows destination but doesn’t know who you are
+
+
+# What is Tor?
+
+Tor (The Onion Router) is an open-source software that bounces Internet traffic through a worldwide network consisting of almost million relays in order to hide user’s location and protect him against surveillance or traffic analysis. Tor makes more difficult to trace Internet activity: websites visits, online posts, instant messages and other communication forms.
 
 # What is darknet?
 
@@ -68,16 +70,6 @@ The Web consists of three large areas:
 
 Hidden services are accessible only within Tor network. Their domain names end with .onion. They are not indexed by any public search engine. The only way to enter .onion sites is to know equal address. You can find some example [deep web links](https://github.com/TorGUIDE) in table above.
 
-# How to find hidden services
-
-There are many tor link lists, wikis and catalogues where you can find addresses to .onion sites. There are also many link lists in clearnet but majority of them is not updated and most links do not work. It’s standard that hidden services work for small amount of time and dissappear forever.
-
-This github pages are maintained by voluteers, that makes this page get updated more often - to provide better access to information:
-[Tor links 2023](https://github.com/TorGUIDE)
-
-There are some darknet search engines mostly created by amateurs and they are very limited due to hidden services nature.
-
-Before accessing any darknet site, make sure that it’s legal in your country to browse content that they contain.
 
 # Who created Tor?
 
@@ -89,6 +81,19 @@ Tor was oficially deployed in October 2002 and its source code was released unde
 
 Tor is supported by US government, many NGOs, private foundations, research institutions, private companies and over 20,000 personal donations from people from around the World.
 
+
+# How to find hidden services
+
+There are many tor link lists, wikis and catalogues where you can find addresses to .onion sites. There are also many link lists in clearnet but majority of them is not updated and most links do not work. It’s standard that hidden services work for small amount of time and dissappear forever.
+
+This github pages are maintained by voluteers, that makes this page get updated more often - to provide better access to information:
+[Tor links 2023](https://github.com/TorGUIDE)
+
+There are some darknet search engines mostly created by amateurs and they are very limited due to hidden services nature.
+
+Before accessing any darknet site, make sure that it’s legal in your country to browse content that they contain.
+
+
 ## Sources
 
 https://medium.com/@darknethome/how-to-enter-darknet-in-2021-b55532cdc3f9
@@ -96,5 +101,5 @@ https://brave.com/
 
 
 Tags:
-[dark web links](https://torhiddenwiki.github.io/w/)
-[tor links](https://github.com/TorHiddenWiki/w)
+[dark web links](https://aHiddenWiki.github.io/h/)
+[tor links](https://github.com/aHiddenWiki/h)
