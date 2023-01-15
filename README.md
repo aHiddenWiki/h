@@ -7,7 +7,7 @@
 | Facebook | [facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion](http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion) |
 | ProtonMail | [protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion](http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) |
 | DuckDuckGo | [duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion) |
-| Hidden wiki | site down, waiting for new link. |
+| Hidden wiki | [wiki5qtrlnlylkyt6jxcqt2fiuwfnbrsm25lj4u74ag72l35lmk4lcad.onion](http://wiki5qtrlnlylkyt6jxcqt2fiuwfnbrsm25lj4u74ag72l35lmk4lcad.onion) |
 | Hidden market | site down, waiting for new link. |
 | Tor Search | site down, waiting for new link. |
 | Mempool.space (BTC only) | [mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion](http://mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion) |
