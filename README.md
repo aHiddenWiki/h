@@ -8,8 +8,6 @@
 | ProtonMail | [protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion](http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) |
 | DuckDuckGo | [duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion) |
 | Hidden wiki | [wiki5qtrlnlylkyt6jxcqt2fiuwfnbrsm25lj4u74ag72l35lmk4lcad.onion](http://wiki5qtrlnlylkyt6jxcqt2fiuwfnbrsm25lj4u74ag72l35lmk4lcad.onion) |
-| Hidden market | site down, waiting for new link. |
-| Tor Search | site down, waiting for new link. |
 | Mempool.space (BTC only) | [mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion](http://mempoolhqx4isw62xs7abwphsq7ldayuidyx2v2oethdhhj6mlo2r6ad.onion) |
 | Monero Official | [monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion](http://monerotoruzizulg5ttgat2emf4d6fbmiea25detrmmy7erypseyteyd.onion) |
 | Chemi5 | [chemi5wtn2hs27wlwgaosi663wswrutofqzhvrjb2ogtxpb42gezebqd.onion](http://chemi5wtn2hs27wlwgaosi663wswrutofqzhvrjb2ogtxpb42gezebqd.onion) |
@@ -19,6 +17,8 @@
 | GiftTo(r) | [giftto33ep564ztvpc6652xt4vkupphghcvtxqwpxi6gq5k2fmjd4zid.onion](http://giftto33ep564ztvpc6652xt4vkupphghcvtxqwpxi6gq5k2fmjd4zid.onion) |
 | Apple World | [applbwku7dfadkfkumiojsbxekuiafpr44idl7bxb2xll6neykvx35id.onion](http://applbwku7dfadkfkumiojsbxekuiafpr44idl7bxb2xll6neykvx35id.onion) |
 | Hackerpass | [hackeoyrzjy3ob4cdr2q56bgp7cpatruphcxvgbfsiw6zeqcc36e4ryd.onion](http://hackeoyrzjy3ob4cdr2q56bgp7cpatruphcxvgbfsiw6zeqcc36e4ryd.onion) |
+| Hidden market | site down, waiting for new link. |
+| Tor Search | site down, waiting for new link. |
 
  
 # How to access dark net?
